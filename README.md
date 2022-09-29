@@ -22,7 +22,7 @@ _A list of my commonly used Git commands_
 | `git add [file-name.txt]` | Add a file to the staging area |
 | `git add -A or git add .` | Add all new and changed files to the staging area |
 | `git commit -m "[commit message]"` | Commit changes from staging Area to local repo |
-| `git rm -r [file-name.txt]` | Remove a file (or folder) |
+| `git rm -rf [file-name.txt]` | Remove a file (or folder) |
 
 ### Branching & Merging
 
